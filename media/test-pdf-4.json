@@ -1,0 +1,41 @@
+{
+  "answer_units": [
+    {
+      "type": "h3",
+      "id": "b431314a-3c35-449c-8e18-79280547ae09",
+      "title": "Directory of Superior Court Deputy Clerk's Offices County Lawyer Referral and Legal Services Offices",
+      "parent_id": "",
+      "direction": "ltr",
+      "content": [
+        {
+          "text": "ATLANTIC COUNTY: Deputy Clerk of the Superior Court Civil Division, Direct Filing 1201 Bacharach Blvd., First Fl. Atlantic City, NJ 08401 LAWYER REFERRAL (609) 345-3444 LEGAL SERVICES (609) 348-4200 BERGEN COUNTY: Deputy Clerk of the Superior Court Civil Division, Room 115 Justice Center, 10 Main St. Hackensack, NJ 07601 LAWYER REFERRAL (201) 488-0044 LEGAL SERVICES (201) 487-2166 BURLINGTON COUNTY: Deputy Clerk of the Superior Court Central Processing Office Attn: Judicial Intake First Fl., Courts Facility 49 Rancocas Rd. Mt. Holly, NJ 08060 LAWYER REFERRAL (609) 261-4862 LEGAL SERVICES (609) 261-1088 CAMDEN COUNTY: Deputy Clerk of the Superior Court Civil Processing Office Hall of Justice 1st Fl., Suite 150 101 South 5th Street Camden, NJ 08103 LAWYER REFERRAL (856) 482-0618 LEGAL SERVICES (856) 964-2010 CAPE MAY COUNTY: Deputy Clerk of the Superior Court 9 N. Main Street Cape May Court House, NJ 08210 LAWYER REFERRAL (609) 463-0313 LEGAL SERVICES (609) 465-3001 CUMBERLAND COUNTY: Deputy Clerk of the Superior Court Civil Case Management Office 60 West Broad Street P.O. Box 10 Bridgeton, NJ 08302 LAWYER REFERRAL (856) 696-5550 LEGAL SERVICES (856) 691-0494 ESSEX COUNTY: Deputy Clerk of the Superior Court Civil Customer Service Hall of Records, Room 201 465 Dr. Martin Luther King Jr. Blvd. Newark, NJ 07102 LAWYER REFERRAL (973) 622-6204 LEGAL SERVICES (973) 624-4500 GLOUCESTER COUNTY: Deputy Clerk of the Superior Court Civil Case Management Office Attn: Intake First Fl., Court House 1 North Broad Street Woodbury, NJ 08096 LAWYER REFERRAL (856) 848-4589 LEGAL SERVICES (856) 848-5360 HUDSON COUNTY: Deputy Clerk of the Superior Court Superior Court, Civil Records Dept. Brennan Court House--1st Floor 583 Newark Ave. Jersey City, NJ 07306 LAWYER REFERRAL (201) 798-2727 LEGAL SERVICES (201) 792-6363 HUNTERDON COUNTY: Deputy Clerk of the Superior Court Civil Division 65 Park Avenue Flemington, NJ 08822 LAWYER REFERRAL (908) 236-6109 LEGAL SERVICES (908) 782-7979 MERCER COUNTY: Deputy Clerk of the Superior Court Local Filing Office, Courthouse 175 S. Broad Street, P.O. Box 8068 Trenton, NJ 08650 LAWYER REFERRAL (609) 585-6200 LEGAL SERVICES (609) 695-6249 MIDDLESEX COUNTY: Deputy Clerk of the Superior Court, Middlesex Vicinage 2nd Floor - Tower 56 Paterson Street, P.O. Box 2633 New Brunswick, NJ 08903-2633 LAWYER REFERRAL (732) 828-0053 LEGAL SERVICES (732) 249-7600 MONMOUTH COUNTY: Deputy Clerk of the Superior Court Court House P.O. Box 1269 Freehold, NJ 07728-1269 LAWYER REFERRAL (732) 431-5544 LEGAL SERVICES (732) 866-0020 MORRIS COUNTY: Morris County Courthouse Civil Division Washington and Court Streets P. O. Box 910 Morristown, NJ 07963-0910 LAWYER REFERRAL (973) 267-5882 LEGAL SERVICES (973) 285-6911 OCEAN COUNTY: Deputy Clerk of the Superior Court 118 Washington Street, Room 121 P.O. Box 2191 Toms River, NJ 08754-2191 LAWYER REFERRAL (732) 240-3666 LEGAL SERVICES (732) 341-2727 PASSAIC COUNTY: Deputy Clerk of the Superior Court Civil Division Court House 77 Hamilton Street Paterson, NJ 07505 LAWYER REFERRAL (973) 278-9223 LEGAL SERVICES (973) 523-2900 SALEM COUNTY: Deputy Clerk of the Superior Court Attn: Civil Case Management Office 92 Market Street Salem, NJ 08079 LAWYER REFERRAL (856) 935-5629 LEGAL SERVICES (856) 691-0494 SOMERSET COUNTY: Deputy Clerk of the Superior Court Civil Division P.O. Box 3000 40 North Bridge Street Somerville, N.J. 08876 LAWYER REFERRAL (908) 685-2323 LEGAL SERVICES (908) 231-0840 SUSSEX COUNTY: Deputy Clerk of the Superior Court Sussex County Judicial Center 43-47 High Street Newton, NJ 07860 LAWYER REFERRAL (973) 267-5882 LEGAL SERVICES (973) 383-7400 UNION COUNTY: Deputy Clerk of the Superior Court 1st Fl., Court House 2 Broad Street Elizabeth, NJ 07207-6073 LAWYER REFERRAL (908) 353-4715 LEGAL SERVICES (908) 354-4340 WARREN COUNTY: Deputy Clerk of the Superior Court Civil Division Office Court House 413 Second Street Belvidere, NJ 07823-1500 LAWYER REFERRAL (908) 859-4300 LEGAL SERVICES (908) 475-2010",
+          "media_type": "text/plain"
+        }
+      ]
+    }
+  ],
+  "media_type_detected": "application/pdf",
+  "metadata": [
+    {
+      "name": "Content-Type",
+      "content": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "author",
+      "content": "Civil Practice Division - New Jersey Judiciary;Civil Practice Division - New Jersey Judiciary"
+    },
+    {
+      "name": "publicationdate",
+      "content": "2013-08-22"
+    }
+  ],
+  "warnings": [
+    {
+      "warning_id": "no_selector_tag_match",
+      "description": "Only one answer unit was produced because none of the selector_tags [h1, h2, h3, h4, h5, h6] matched against the document.",
+      "phase": "answer_units"
+    }
+  ],
+  "source_document_id": "",
+  "timestamp": "2017-04-23T01:00:11.469Z"
+}

@@ -1,0 +1,28 @@
+{
+  "metadata": [
+    {
+      "name": "Content-Type",
+      "content": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "publicationdate",
+      "content": "2017-04-22"
+    }
+  ],
+  "source_document_id": "",
+  "answer_units": [],
+  "timestamp": "2017-04-23T00:48:36.249Z",
+  "media_type_detected": "application/pdf",
+  "warnings": [
+    {
+      "phase": "normalized_html",
+      "description": "The input HTML document has no body content.",
+      "warning_id": "empty_input_to_converter"
+    },
+    {
+      "phase": "answer_units",
+      "description": "The input provided to the converter phase is empty or doesn't contain text that can be converted.",
+      "warning_id": "empty_input_to_converter"
+    }
+  ]
+}
