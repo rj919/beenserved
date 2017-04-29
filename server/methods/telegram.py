@@ -92,7 +92,7 @@ def analyze_message(update_details, user_id, telegram_bot_client, telegram_data_
             sleep(.2)
 
     # recognize text in photo
-            from www.methods.google_vision import recognize_text
+            from server.methods.google_vision import recognize_text
             recognized_text = ''
             try:
                 recognized_text = recognize_text(vision_cred_path, file_path)
@@ -184,7 +184,7 @@ def analyze_message(update_details, user_id, telegram_bot_client, telegram_data_
         else:
             document_details = telegram_data_client.read(doc_results[0])
             if not 'french' in document_details.keys():
-                from www.methods.google_translate import translate_text
+                from server.methods.google_translate import translate_text
                 english_text = document_details['english']
                 translated_text = translate_text(translate_cred_path, english_text, 'fr')
                 if translated_text:
@@ -208,7 +208,7 @@ def analyze_message(update_details, user_id, telegram_bot_client, telegram_data_
         else:
             document_details = telegram_data_client.read(doc_results[0])
             if not 'spanish' in document_details.keys():
-                from www.methods.google_translate import translate_text
+                from server.methods.google_translate import translate_text
                 english_text = document_details['english']
                 translated_text = translate_text(translate_cred_path, english_text, 'es')
                 if translated_text:
@@ -232,7 +232,7 @@ def analyze_message(update_details, user_id, telegram_bot_client, telegram_data_
         else:
             document_details = telegram_data_client.read(doc_results[0])
             if not 'norweigan' in document_details.keys():
-                from www.methods.google_translate import translate_text
+                from server.methods.google_translate import translate_text
                 english_text = document_details['english']
                 translated_text = translate_text(translate_cred_path, english_text, 'no')
                 if translated_text:
@@ -256,7 +256,7 @@ def analyze_message(update_details, user_id, telegram_bot_client, telegram_data_
         else:
             document_details = telegram_data_client.read(doc_results[0])
             if not 'chinese' in document_details.keys():
-                from www.methods.google_translate import translate_text
+                from server.methods.google_translate import translate_text
                 english_text = document_details['english']
                 translated_text = translate_text(translate_cred_path, english_text, 'zh-CN')
                 if translated_text:
@@ -346,7 +346,7 @@ if __name__ == '__main__':
 
     from os import path, environ
     if path.exists('../../cred'):
-        from www.utils import inject_envvar
+        from server.utils import inject_envvar
         inject_envvar('../../cred')
     environ['SERVER_DATA_PATH'] = '../../data'
     environ['GOOGLE_VISION_KEYS'] = '../../keys/google-vision.json'
