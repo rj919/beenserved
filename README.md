@@ -1,21 +1,26 @@
-# Flask Bot  
-_A Bot Engine using Flask on Alpine & Gunicorn/Gevent inside Docker_  
-**by [Collective Acuity](http://collectiveacuity.com)**
+# Been Served
+_A Bot Service to Help You Understand Your Legal Options_  
+**by Richard J & Peter Ching**
 
 Benefits
 --------
-To be edited by fork
+- Explains the nature of the summons
+- Finds legal resources appropriate to the summons
+- Translates document into native language
 
 Features
 --------
-To be edited by fork
+- Interacts through a conventional messaging platform
+- Performs optical character recognizition on photos
+- Retrieves summons details and court case filings
+- Identifies resource links in jurisdiction for proceeding
 
 Components
 ----------
-To be edited by fork
+- TelegramBot API (messaging)
+- Googe Vision API (OCR)
+- Google Translate API (translation)
+- Flask (web framework)
+- Python (language)
 
-Flask Bot References
---------------------
-[README-UPSTREAM.md](https://bitbucket.org/collectiveacuity/flaskbotfork/src/master/README-UPSTREAM.md)  
-[DOCUMENTATION.md](https://bitbucket.org/collectiveacuity/flaskbotfork/src/master/DOCUMENTATION.md)  
-[RESOURCES.md](https://bitbucket.org/collectiveacuity/flaskbotfork/src/master/REFERENCES.md)
+
