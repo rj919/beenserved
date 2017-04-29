@@ -15,5 +15,10 @@ job_list = [
         'id': 'monitors.started.%s' % str(time()),
         'function': 'init:flask_app.logger.debug',
         'kwargs': { 'msg': 'Monitors are started.' }
+    },
+    {
+        'id': 'monitors.telegram.%s' % str(time()),
+        'function': 'methods/telegram:monitor_telegram',
+        'interval': 3
     }
 ]
