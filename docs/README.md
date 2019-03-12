@@ -29,11 +29,15 @@ Been Served is a telegram chat bot built for [CourtHack 2017](http://courthack.o
 ## Screenshots
 __Entry/Help:__  
 ![Entry/Help](screen1_help.png)
+
 __Scan Document:__
 ![Scan Document](screen2_scan.png)
+
 __View Text:__
 ![View Text](screen3_view.png)
+
 __Norwegian Translation:__
 ![Norwegian Translation](screen4_translate_norweigan.png)
+
 __Mandarin Translation:__
 ![Mandarin Translation](screen5_translate_mandarin.png)
