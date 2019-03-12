@@ -3,7 +3,7 @@ _A Bot Service to Help You Understand Your Legal Options_
 **by Richard J & Peter Ching**
 
 ## Introduction
-Been Served is a telegram chat bot built for [CourtHack 2017](http://courthack.org) which translates court summons into the native language of the recipient. Been Served uses a combination of OCR and machine translation to convert a photo of a summons into text which can be read in any language in order to solve Challenge 4: Translating Legalese into Folksonomy of the hackathon.
+Been Served is a telegram chat bot built for [CourtHack 2017](http://courthack.org) which translates court summons into the native language of the recipient. Been Served uses a combination of OCR and machine translation to convert a photo of a summons into text which can then be read in any language in order to help solve Challenge 4: Translating Legalese into Folksonomy of the hackathon.
 
 ## Benefits
 - Explains the nature of the summons
